@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MiNET" Version="1.0.2284" />
+    <PackageReference Include="node-uuid" Version="1.4.0" />
+  </ItemGroup>
+
+</Project>
